@@ -9,9 +9,9 @@ It includes small scripts, exercises, and mini projects.
 - Data Science Libraries (NumPy, Pandas, Matplotlib)
 
 ## 📂 Folder Structure
-basic_syntax/ → Contains simple Python programs
-file_handling/ → Read, Write, and Error Handling
-oop/ → Object-Oriented Programming Examples
+- Basic_syntax/ → Contains simple Python programs
+- File_handling/ → Read, Write, and Error Handling
+- Oop/ → Object-Oriented Programming Examples
 ---
 
 👩‍💻 Author: Toufique Ahmed  
