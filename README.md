@@ -12,4 +12,4 @@ It includes small scripts, exercises, and mini projects.
 
 👩‍💻 Author: Toufique Ahmed  
 🎓 IoT & Robotics Engineering Student  
-🌐 [LinkedIn Profile](#) | [Portfolio Website](#)
+🌐 [www.linkedin.com/in/toufique39](#) |
