@@ -242,7 +242,7 @@ Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Si
 241,47,Male,Sweater,Clothing,45,Montana,XL,Turquoise,Winter,3.5,Yes,Free Shipping,Yes,Yes,29,Bank Transfer,Fortnightly
 242,36,Male,Hoodie,Clothing,88,Delaware,M,Peach,Winter,4.1,Yes,Free Shipping,Yes,Yes,43,Venmo,Bi-Weekly
 243,55,Male,Coat,Outerwear,85,New York,L,Gray,Summer,4.3,Yes,Store Pickup,Yes,Yes,40,Debit Card,Every 3 Months
-244,25,Male,Jewelry,Accessories,100,Kentucky,M,Olive,Winter,2.8,Yes,2-Day Shipping,Yes,Yes,4,Debit Card,Monthly
+244,25,Male,Jewelry,Accessories,100,Kentucky,M,Olive,Winter,2.8,Yes,2-Day Shipping,Yes,Yes,NULL,Debit Card,Monthly
 245,53,Male,Belt,Accessories,42,Oregon,S,Indigo,Spring,4.9,Yes,2-Day Shipping,Yes,Yes,39,PayPal,Weekly
 246,49,Male,Sandals,Footwear,53,Rhode Island,L,Charcoal,Summer,3.3,Yes,Next Day Air,Yes,Yes,45,Venmo,Fortnightly
 247,35,Male,Sunglasses,Accessories,86,Nevada,XL,Beige,Spring,3.2,Yes,Express,Yes,Yes,20,Venmo,Bi-Weekly
@@ -3899,3 +3899,4 @@ Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Si
 3898,46,Female,Belt,Accessories,33,New Jersey,L,Green,Spring,2.9,No,Standard,No,No,24,Venmo,Quarterly
 3899,44,Female,Shoes,Footwear,77,Minnesota,S,Brown,Summer,3.8,No,Express,No,No,24,Venmo,Weekly
 3900,52,Female,Handbag,Accessories,81,California,M,Beige,Spring,3.1,No,Store Pickup,No,No,33,Venmo,Quarterly
+
